@@ -1,0 +1,32 @@
+ String nome;
+    int qtdAnual;
+    int qtdMinima;
+    
+    public EstoqueQuestao5(){
+        
+    }
+    public EstoqueQuestao5(String nome, int qtdAnual, int qtdMinima){
+        this.nome = nome;
+        this.qtdAnual = qtdAnual;
+        this.qtdMinima = qtdMinima;
+    }
+    void mudarNome( String nome){
+        
+    }
+    void mudarQtdMinima( int qtdMinima){
+        
+        
+    }
+    void repor( int qtd){
+        
+    }
+    void darBaixa(int quant){
+        
+    }
+    String mostra(){
+        return null;
+        
+    }
+    boolean precisaRepor(){
+        return false;
+    }
